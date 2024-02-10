@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Purple Glow Effect */
+.purple-glow {
+    box-shadow: 0 0 25px 5px rgba(147, 112, 219, 0.6), 0 0 25px 5px rgba(147, 112, 219, 0.6), 0 0 25px 5px rgba(147, 112, 219, 0.6);    
+  }
+  
